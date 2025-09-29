@@ -1,4 +1,4 @@
-# Hello there, I'm JC (or Charly)! 👋
+# Hello there, I'm JC (Charly)! 👋
 
 <div align="center">
   
@@ -25,7 +25,6 @@ I created my first website when I was 14. I used Front Page and it was awful, bu
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### Frameworks & Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -46,11 +45,17 @@ I created my first website when I was 14. I used Front Page and it was awful, bu
 
 </div>
 
-## 🎯 Current Interests
+### 📝 International Publication
+**"Heuristic Evaluation of Android-Based Applications with Multiple Screen Sizes Support: A Case Study"**
+- Published in: Design, User Experience, and Usability: HCII 2021
+- Publisher: Springer, Lecture Notes in Computer Science, vol 12781
+- DOI: [10.1007/978-3-030-78227-6_37](https://doi.org/10.1007/978-3-030-78227-6_37)
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ☁️ **Cloud Architecture & DevOps**
-- 🌐 **Web3**
+### 🔬 Research Areas
+- **HCI (Human-Computer Interaction)**
+- **UX/UI and Usability**
+- **Web Accessibility (WCAG)**
+- **Mobile Evaluation Methodologies**
 
 ## 📫 Let's Connect!
 
@@ -58,7 +63,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julius%20Cromaina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jcromaina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JC%20Romaina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jcromaina/)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-red?style=for-the-badge&logo=gmail)](mailto:julius.cromaina@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge&logo=github)](https://github.com/otro34)
 
@@ -68,6 +73,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   
-*"The best way to predict the future is to create it."* 💫
+*“The hardest thing in this world is to live in it. Be brave. Live.”* 💫
 
 </div>
