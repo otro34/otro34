@@ -1,4 +1,4 @@
-# Hi there, I'm Julius Cromaina! 👋
+# Hello there, I'm JC Romaina! 👋
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and **Technology Enthusiast** with a strong background in developing innovative solutions and driving digital transformation. I love tackling complex problems and turning ideas into reality through code.
+I created my first website when I was 14. I used Front Page and it was awful, but I liked it! Now I develop software with intention and care. I'm a technology advocate, university profesor and proud dog owner. 
 
 ### 💼 Professional Focus
 - 🔭 **Currently working on**: Building scalable software solutions and exploring emerging technologies
@@ -19,31 +19,29 @@ I'm a passionate **Software Engineer** and **Technology Enthusiast** with a stro
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Frameworks & Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otro34&show_icons=true&theme=radical&hide_border=true)
+![JC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otro34&show_icons=true&theme=radical&hide_border=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otro34&layout=compact&theme=radical&hide_border=true)
 
