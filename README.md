@@ -1,4 +1,4 @@
-# Hello there, I'm JC Romaina! 👋
+# Hello there, I'm JC (or Charly)! 👋
 
 <div align="center">
   
@@ -12,10 +12,9 @@
 I created my first website when I was 14. I used Front Page and it was awful, but I liked it! Now I develop software with intention and care. I'm a technology advocate, university profesor and proud dog owner. 
 
 ### 💼 Professional Focus
-- 🔭 **Currently working on**: Building scalable software solutions and exploring emerging technologies
-- 🌱 **Always learning**: New programming languages, frameworks, and best practices
-- 👯 **Looking to collaborate on**: Open source projects and innovative tech solutions
-- 🎯 **Goals**: Contributing to impactful projects that make a difference
+- 🔭 **Currently working on**: Building apps with Claude code
+- 🌱 **Always learning**: About SAFe
+- 🎯 **Goals**: Build exiting stuff
 
 ## 🛠️ Tech Stack & Skills
 
@@ -50,10 +49,8 @@ I created my first website when I was 14. I used Front Page and it was awful, bu
 ## 🎯 Current Interests
 
 - 🤖 **Artificial Intelligence & Machine Learning**
-- 🔐 **Cybersecurity & Secure Development**
 - ☁️ **Cloud Architecture & DevOps**
-- 📱 **Mobile Application Development**
-- 🌐 **Web3 & Blockchain Technologies**
+- 🌐 **Web3**
 
 ## 📫 Let's Connect!
 
